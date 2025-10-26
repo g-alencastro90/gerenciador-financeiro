@@ -207,7 +207,7 @@ export function MeuComponente({ titulo, valor, onAction }: ComponenteProps) {
 
 **Equipe Mordomo**
 
-- 🌐 Website: [clubdosoftware.com.br](https://clubdosoftware.com.br)
+- 🌐 Website: [)
 
 ---
 
@@ -215,6 +215,6 @@ export function MeuComponente({ titulo, valor, onAction }: ComponenteProps) {
 
 **Feito com ❤️ para simplificar sua vida financeira**
 
-[🏠 Home](https://clubdosoftware.com.br) • [📚 Docs](https://clubdosoftware.com.br/mordomo.html)
+[🏠 Home]() • [📚 Docs]()
 
 </div>
